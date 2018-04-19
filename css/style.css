@@ -65,3 +65,10 @@ body {
 	padding: 0;
 	width: 29.2%;
 }
+.footer {
+	text-align: center;
+	color: white;
+	background-color: black;
+	margin-top: 2%;
+	padding: 2%;
+}
