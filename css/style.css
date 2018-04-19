@@ -32,10 +32,13 @@ body {
 	font-size: 110%;
 	margin: 20px;
 	padding: 20px;
-	background-image: url("../img/Vasarely-5.jpg");
+	background-image: url("../img/OB_Vasarely1-7.jpg");
+	background-repeat: no-repeat;
+	background-size: 100% auto;
 	color: white;
 	font-family: 'Roboto Condensed', sans-serif;
 	border-radius: 15%;
+	line-height: 130%;
 }
 .row div img {
 	border-radius: 50%;
@@ -71,4 +74,5 @@ body {
 	background-color: black;
 	margin-top: 2%;
 	padding: 2%;
+	font-family: 'Roboto Condensed', sans-serif;
 }
